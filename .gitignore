@@ -1,0 +1,46 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Android Studio
+captures/
+output.json
+
+# Generated files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.so
+*.o
+*.obj
+
+# Kotlin
+*.kotlin_module
+
+# Jetpack Compose & ViewBinding
+generated/
+
+# Signing files (keep private!)
+*.jks
+*.keystore
+
+# Others
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.orig
